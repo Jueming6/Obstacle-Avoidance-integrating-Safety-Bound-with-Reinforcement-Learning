@@ -2,8 +2,6 @@
 
 Author: Jueming Hu, Arizona State University
 
-Email: jueming.hu@asu.edu
-
 This fork is used to provide an implementation for [1].
 
 [1] demonstrates path planning for UAS obstacle avoidance using a **probabilistic dynamic anisotropic (DA) safety bound coupled with reinforcement learning (RL) methods**. The DA safety bound is influenced by UAS performance, weather condition, and uncertainties in UAS operations such as positioning error. 
